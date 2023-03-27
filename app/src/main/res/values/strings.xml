@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice13</string>
+    <string name="vhod">Вход</string>
+    <string name="hello">Привет</string>
+    <string name="hello_add">Наслаждайся отборочными.\nБудь внимателен.\nДелай хорошо.</string>
+    <string name="login">Войти в аккаунт</string>
+    <string name="title_activity_navigation_panel">NavigationPanel</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
