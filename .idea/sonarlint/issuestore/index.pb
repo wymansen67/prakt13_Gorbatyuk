@@ -5,8 +5,6 @@
 app/.gitignore,5\1\51e1c5d383dfaa35e0e7e5873a0a99355a86880f
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-@
-app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 F
@@ -18,8 +16,6 @@ G.idea/sonarlint/issuestore/0/7/0712df971a99ac4d2fccb8e0fb19f377f3374cca,4\1\41
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-<
-build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 A
 gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
 ?
@@ -30,16 +26,12 @@ X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 ;
 gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 z
 Japp/src/main/java/com/example/practice13/ui/dashboard/DashboardFragment.kt,1\5\155a4bbe7d44bcdd56d01d5ae10296aff1dd08a4
 z
 Japp/src/androidTest/java/com/example/practice13/ExampleInstrumentedTest.kt,2\1\210610ae1793bc68c8731ada00844e46343353bc
 k
 ;app/src/test/java/com/example/practice13/ExampleUnitTest.kt,d\b\db3cbe59a91f5290878af2816036bc1fc70d6619
-g
-7app/src/main/java/com/example/practice13/LoginScreen.kt,5\b\5b1ba959300b316a63084e767ffa5fda8905fa12
 f
 6app/src/main/java/com/example/practice13/MainScreen.kt,2\e\2e8e17fe70aee15ec8cd26989dd84693c41148ee
 W
@@ -52,3 +44,7 @@ l
 <app/src/main/java/com/example/practice13/OnBoardingScreen.kt,e\4\e42ec0bd2446b6d92e1827a945fb315902c0790c
 h
 8app/src/main/java/com/example/practice13/SplashScreen.kt,e\2\e255f481bf004670f59a8c82a2d299f1c5a00292
+]
+-app/src/main/java/recadapters/FeelRecycler.kt,1\8\185a4a675be1ae7fd88996c6d86273a948a7234c
+p
+@app/src/main/java/com/example/practice13/ui/home/HomeFragment.kt,7\7\772739dbd9a3c725b5c2a9e923b66bef6c5e9eb5
