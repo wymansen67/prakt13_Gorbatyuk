@@ -13,8 +13,8 @@ import com.example.practice13.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
 
-    val feel_recycler : RecyclerView = root.findViewById(R.id.feel_rec)
-    feel_recycler.adapter = FeelRecycler(requireContext(), MyFeel().list)
+    /* val feel_recycler : RecyclerView = root.findViewById(R.id.feel_rec)
+    feel_recycler.adapter = FeelRecycler(requireContext(), MyFeel().list) */
 
     override fun onCreateView(
         inflater: LayoutInflater,
